@@ -3,9 +3,6 @@
 ***Welcome to my blog***
 - [item 1](https://bing.cn)
 - item 2
-- item 3
-
-![2125457](https://github.com/user-attachments/assets/a605b936-78aa-4a60-9cb5-9dec03769adb)
 
 ![GitHub_Invertocat_Logo svg]()
 
